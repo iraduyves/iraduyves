@@ -51,7 +51,7 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/YvesIRADUKUNDA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="YvesIRADUKUNDA" /></a></p><br><br>
 
-  <p  align="center" style="width: 10%;">
+  <p  align="center" style="width: 100%;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=iraduyves" alt="iraduyves" />
     </a>
