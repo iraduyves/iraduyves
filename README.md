@@ -60,10 +60,9 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
   <p  style="width: 30%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iraduyves&show_icons=true&locale=en&layout=compact" alt="iraduyves" />
   </p>
-  <p align="right" style="width: 30%;">
+  <p  style="width: 30%;">
     <img src="https://github-readme-stats.vercel.app/api?username=iraduyves&show_icons=true&locale=en" alt="iraduyves" />
   </p>
-
 </div>
 
 
