@@ -59,13 +59,3 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 <p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=iraduyves&" alt="iraduyves" /></p>
 
 
-
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100">
-	<br>
-	<br>
-	<br>
-</div>
