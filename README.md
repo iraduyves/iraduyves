@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iraduyves&label=Profile%20views&color=0e75b6&style=flat" alt="iraduyves" /> </p>
 <img align="right"alt="Coding"width="400"src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iraduyves" alt="iraduyves" /></a> </p>
 
-<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <p>Greetings!
@@ -48,6 +47,8 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iraduyves&show_icons=true&locale=en" alt="iraduyves" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iraduyves&" alt="iraduyves" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iraduyves" alt="iraduyves" /></a> </p>
+
 
 
 <div align="center">
