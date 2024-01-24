@@ -51,12 +51,12 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/YvesIRADUKUNDA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="YvesIRADUKUNDA" /></a></p><br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iraduyves" alt="iraduyves" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iraduyves&show_icons=true&locale=en&layout=compact" alt="iraduyves" /></p>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iraduyves" alt="iraduyves" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iraduyves&show_icons=true&locale=en&layout=compact" alt="iraduyves" /></p>
 
-<p>&nbsp;<img  align="right" src="https://github-readme-stats.vercel.app/api?username=iraduyves&show_icons=true&locale=en" alt="iraduyves" /></p>
+<p>&nbsp;<img align="right"   src="https://github-readme-stats.vercel.app/api?username=iraduyves&show_icons=true&locale=en" alt="iraduyves" /></p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iraduyves&" alt="iraduyves" /></p>
+<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=iraduyves&" alt="iraduyves" /></p>
 
 
 
