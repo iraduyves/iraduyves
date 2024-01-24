@@ -53,10 +53,12 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iraduyves&show_icons=true&locale=en&layout=compact" alt="iraduyves" /></p>
 
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+
 <p style="width: 30%;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iraduyves&show_icons=true&locale=en" alt="iraduyves" /></p>
 
 <p style="width: 30%;" ><img align="right" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=iraduyves&" alt="iraduyves" /></p>
 
 
-
+</div>
 
