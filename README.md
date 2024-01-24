@@ -51,14 +51,12 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/YvesIRADUKUNDA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="YvesIRADUKUNDA" /></a></p><br><br>
 
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-
-  <p style="width: 30%;">
+  <p  align="center" style="width: 10%;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=iraduyves" alt="iraduyves" />
     </a>
   </p>
-
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <p style="width: 30%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iraduyves&show_icons=true&locale=en&layout=compact" alt="iraduyves" />
   </p>
