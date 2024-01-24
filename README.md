@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yves Iradukunda</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100">
+	<br>
+	<br>
+	<br>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iraduyves&label=Profile%20views&color=0e75b6&style=flat" alt="iraduyves" /> </p>
 <img align="right"alt="Coding"width="400"src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
