@@ -57,7 +57,7 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 
 <p style="width: 30%;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iraduyves&show_icons=true&locale=en" alt="iraduyves" /></p>
 
-<p style="width: 30%;" ><img align="right" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=iraduyves&" alt="iraduyves" /></p>
+<p style="width: 30%,margin-top:10px;" ><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=iraduyves&" alt="iraduyves" /></p>
 
 
 </div>
