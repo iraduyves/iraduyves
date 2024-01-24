@@ -56,12 +56,11 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
       <img src="https://github-profile-trophy.vercel.app/?username=iraduyves" alt="iraduyves" />
     </a>
   </p>
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <p style="width: 30%;">
+<div style="display: flex; justify-content: space-around;  width: 100%;">
+  <p align="left" style="width: 30%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iraduyves&show_icons=true&locale=en&layout=compact" alt="iraduyves" />
   </p>
-
-  <p style="width: 30%;">
+  <p align="right" style="width: 30%;">
     <img src="https://github-readme-stats.vercel.app/api?username=iraduyves&show_icons=true&locale=en" alt="iraduyves" />
   </p>
 
