@@ -51,7 +51,7 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/YvesIRADUKUNDA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="YvesIRADUKUNDA" /></a></p><br><br>
 
-<p><img align="center"  width="100%"  height="10%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iraduyves&show_icons=true&locale=en&layout=compact" alt="iraduyves" /></p>
+
 
 
 <p>">&nbsp;<img align="center" width="100%"  height="10%" src="https://github-readme-stats.vercel.app/api?username=iraduyves&show_icons=true&locale=en" alt="iraduyves" /></p>
