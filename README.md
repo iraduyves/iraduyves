@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yves Iradukunda</h1>
-<h3 align="center">A passionate frontend developer from Rwanda</h3>
+<h3 align="center">A passionate Fullstack developer from Rwanda</h3>
 <div align="center">
 	<br>
 	<br>
