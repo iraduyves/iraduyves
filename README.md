@@ -22,7 +22,7 @@
 I'm a software enthusiast with a knack for crafting imaginative solutions. My days are filled with coding adventures, unraveling pesky bugs, and jamming with my talented team to ensure our software dazzles our users. Join me on this exciting journey as we bring a touch of magic to the world of tech! Let's collaborate and create wonders together!
 </br>
 
-/*- 🔭 I’m currently working on [Umuco Wacu App](https://github.com/iraduyves/Umuco-Wacu-.git)*/
+
 
 - 🌱 I’m currently learning **SpringBoot and Devops**
 
