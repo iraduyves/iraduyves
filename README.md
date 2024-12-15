@@ -26,7 +26,7 @@ I'm a software enthusiast with a knack for crafting imaginative solutions. My da
 
 - 🌱 I’m currently learning **SpringBoot and Devops**
 
-- 👯 I’m looking to collaborate on [Attendence App](https://github.com/pndungutse/attendance_app.git)
+
 
 - 👨‍💻 All of my projects are available at [https://iraduyves.github.io/My-personal_Potfolio/](https://iraduyves.github.io/My-personal_Potfolio/)
 
