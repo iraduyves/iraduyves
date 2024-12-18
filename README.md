@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Fullstack developer from Rwanda</h3>
 
 
-
 <div align="center">
 	<br>
 	<br>
